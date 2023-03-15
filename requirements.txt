@@ -1,0 +1,11 @@
+gunicorn
+fastapi
+millify
+numpy
+pandas
+plotly
+requests
+scikit_learn
+streamlit
+tensorflow
+uvicorn
